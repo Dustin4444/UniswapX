@@ -7,7 +7,7 @@
         "sign-dca-intent": "node dist/sign-dca-intent.js"
     },
     "dependencies": {
-        "viem": "2.23.15"
+        "viem": "2.56.3"
     },
     "devDependencies": {
         "typescript": "^5.3.3",
